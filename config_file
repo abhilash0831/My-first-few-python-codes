@@ -1,0 +1,5 @@
+# Config file for HW3
+Start: (0,0)
+End: (19,19)
+Map: map1.dat
+Path: path1.dat
